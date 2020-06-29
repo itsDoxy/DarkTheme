@@ -1,2 +1,5 @@
 # Dark Theme
- Dark Theme JS
+
+Dark Theme for web
+
+Basically Using CSS and JS; 
