@@ -1,5 +1,5 @@
-# Dark Theme
+#Dark Theme
 
-Dark Theme for web
+Dark Theme for web.
 
-Basically Using CSS and JS; 
+Elements made using simple CSS and JS; 
